@@ -26,7 +26,7 @@ storey_range_options = ['10 TO 12', '04 TO 06', '07 TO 09', '01 TO 03', '13 TO 1
                         '37 TO 39', '34 TO 36', '46 TO 48', '43 TO 45', '49 TO 51']
 
 # Load the saved model
-pipeline = joblib.load(r"E:\Desktop\Desktop materials\ML\project_first\resale_price_prediction_xgboost.joblib")
+pipeline = joblib.load("resale_price_prediction_xgboost.joblib")
 
 # Streamlit app title
 st.set_page_config(layout="wide")

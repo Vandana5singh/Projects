@@ -28,6 +28,6 @@ Decision Trees are utilized to model resale prices based on key features. Model 
 ## XGBoost 
 XGBoost is employed for predicting resale flat prices. XGBoost is an ensemble learning algorithm that has proven effective in various machine learning tasks, providing high performance and efficiency.By including XGBoost in the model selection, the project aims to leverage its powerful gradient boosting capabilities to enhance the accuracy and predictive performance of the resale price prediction model.
 
-## create prediction app using streamlit app and deployed it on render
+## created prediction app using streamlit and deployed it on render
 Singapore price prediction app is now accessible via a given link : https://singapore-first-project5.onrender.com/
 

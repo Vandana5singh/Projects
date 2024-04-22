@@ -20,7 +20,8 @@ Data Preprocessing
 Importing Necessary Packages This step involves importing essential libraries like pandas, numpy, seaborn, and matplotlib for data manipulation and visualization. Reading and Merging Data Datasets are read and merged, combining relevant information for further analysis. Exploratory Data Analysis (EDA) EDA involves exploring the dataset through statistical measures and visualizations to understand patterns and trends. Multivariate Analysis Multivariate analysis encompasses exploring relationships between multiple variables, aiding in a more comprehensive understanding of the data.
 
 ## Model Building and Evaluation
-Linear Regression Linear Regression is employed to model the relationship between independent variables and resale prices. Model evaluation metrics include Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, R-squared Score, and Explained Variance Score.
+## Linear Regression 
+Linear Regression is employed to model the relationship between independent variables and resale prices. Model evaluation metrics include Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, R-squared Score, and Explained Variance Score.
 
 ## Decision Trees 
 Decision Trees are utilized to model resale prices based on key features. Model evaluation follows similar metrics as in Linear Regression.
